@@ -16,12 +16,17 @@ Play demo ....
 
 
 
-After playing the game the winner of the tic_tac_toe :
+After playing the game the winner of the tic_tac_toe ....
 
 ![](https://github.com/Bapuso-Sawant/Tic_Tac_Toe_Game/blob/master/Screenshot%20(720).png)
 
 
-After playing the game:
+Game draw ....
+
+![](https://github.com/Bapuso-Sawant/Tic_Tac_Toe_Game/blob/master/Screenshot%20(726).png)
+
+
+After playing the game ....
 
 ![](https://github.com/Bapuso-Sawant/Tic_Tac_Toe_Game/blob/master/Screenshot%20(723).png)
 
